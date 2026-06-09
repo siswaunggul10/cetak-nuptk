@@ -454,7 +454,7 @@ export default function App() {
       {/* Footer / Copyright */}
       <footer className="mt-12 py-8 bg-white border-t border-gray-200 no-print">
         <div className="max-w-7xl mx-auto px-4 text-center text-slate-400 text-sm">
-          &copy; {new Date().getFullYear()} Cetak Kartu NUPTK Online. All rights reserved.
+          &copy; {new Date().getFullYear()} Cetak Kartu NUPTK Online | By: Zainal Abidin, S.Pd. All rights reserved.
         </div>
       </footer>
     </div>
