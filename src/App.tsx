@@ -324,7 +324,7 @@ export default function App() {
                   ref={cardRef}
                   className="relative w-[400px] h-[250px] bg-white rounded-xl shadow-lg overflow-hidden border border-gray-200 select-none"
                   style={{ 
-                    backgroundImage: 'url("https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Kementerian_Pendidikan_dan_Kebudayaan.png/600px-Logo_Kementerian_Pendidikan_dan_Kebudayaan.png")',
+                    backgroundImage: 'url("https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_of_Ministry_of_Education_and_Culture_of_Republic_of_Indonesia.svg/500px-Logo_of_Ministry_of_Education_and_Culture_of_Republic_of_Indonesia.svg.png")',
                     backgroundSize: '40%',
                     backgroundPosition: 'center',
                     backgroundRepeat: 'no-repeat',
