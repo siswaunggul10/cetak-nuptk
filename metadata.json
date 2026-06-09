@@ -1,0 +1,5 @@
+{
+  "name": "Cetak Kartu NUPTK Online",
+  "description": "Aplikasi untuk membuat dan mencetak kartu NUPTK (Nomor Unik Pendidik dan Tenaga Kependidikan) secara instan dengan pratinjau langsung.",
+  "requestFramePermissions": []
+}
