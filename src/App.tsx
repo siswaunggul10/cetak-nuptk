@@ -336,7 +336,7 @@ export default function App() {
                   <div className="p-3 flex justify-between items-start">
                     <div className="flex items-center gap-2">
                       <img 
-                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Kementerian_Pendidikan_dan_Kebudayaan.png/600px-Logo_Kementerian_Pendidikan_dan_Kebudayaan.png" 
+                        src="https://lh3.googleusercontent.com/d/1HjLa_rsCwugG1WLyCjhkyYJ1F_kihIiq" 
                         alt="Logo" 
                         className="h-8 w-auto"
                       />
